@@ -222,3 +222,6 @@ Adding the reliability layer revealed that the system *seemed* smarter than it w
 - System treats all users as having a single fixed taste profile
 - Silent filter-bubble effect when catalog lacks songs matching a requested mood
 - No temporal or contextual awareness (time of day, device, context)
+
+### Walkthrough is included: 
+https://www.loom.com/share/ce998e4ac52a42379b774a2950aa45ea
